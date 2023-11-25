@@ -28,6 +28,8 @@ O projeto possui a utilidade geral de conseguir conectar mais ainda os médicos 
   - Nome do Dispositivo: `MediCare`
   - Porta MQTT: `1883`
 
+## Link 
+ - https://wokwi.com/projects/382223664792308737
 ## Bibliotecas Utilizadas
 
 - [ArduinoJson](https://arduinojson.org/)
