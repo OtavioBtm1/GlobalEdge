@@ -64,5 +64,5 @@ O projeto possui a utilidade geral de conseguir conectar mais ainda os médicos 
 - Os tópicos MQTT correspondentes são utilizados para exibir as informações no dashboard.
 
 ## Contribuições
-
+ - Esse projeto foi feito por Otavio Vitoriano da Silva RM552012 e por Jessica Brum Filho RM97944
 Contribuições são bem-vindas! Se encontrar problemas ou melhorias, sinta-se à vontade para criar issues ou pull requests.
